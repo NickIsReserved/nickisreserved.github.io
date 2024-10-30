@@ -1,4 +1,4 @@
-import "./public/serviceWorker.js"
+import "./assets/serviceWorker.js"
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function() {
